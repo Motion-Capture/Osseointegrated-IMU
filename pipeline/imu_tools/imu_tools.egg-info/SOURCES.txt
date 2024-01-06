@@ -1,0 +1,9 @@
+setup.py
+imu_tools/__init__.py
+imu_tools/imu_tools.py
+imu_tools/transform.py
+imu_tools.egg-info/PKG-INFO
+imu_tools.egg-info/SOURCES.txt
+imu_tools.egg-info/dependency_links.txt
+imu_tools.egg-info/not-zip-safe
+imu_tools.egg-info/top_level.txt

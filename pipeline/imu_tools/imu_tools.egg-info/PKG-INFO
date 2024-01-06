@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: imu-tools
+Version: 0.1
+Summary: Tools to work with OpenSim sto/mot files
+Author: Shayan Taheri
+Author-email: moha.j.taheri@gmail.com
+License: MIT
